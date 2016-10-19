@@ -33,7 +33,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         //return 5 
         
         //為了解決刪除新增筆數的問題，設定動態的
-        return avengers.count
+        return avengers.count 
     }
     
     // step 3: 設定 table cells 的值
